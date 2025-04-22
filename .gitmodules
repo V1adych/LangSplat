@@ -4,3 +4,6 @@
 [submodule "submodules/langsplat-rasterization"]
 	path = submodules/langsplat-rasterization
 	url = https://github.com/minghanqin/langsplat-rasterization
+[submodule "submodules/simple-knn"]
+	path = submodules/simple-knn
+	url = https://github.com/V1adych/simple-knn.git
